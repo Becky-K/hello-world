@@ -1,6 +1,7 @@
 # hello-world
-GitHubt tutorial
-##Introduction
+GitHub tutorial
+
+## Introduction
 This is my **first time** encounterting or hearing about Markdown so I'm a little nervous!
 So far, I like it for the following reasons:
 - It's a bit like html
